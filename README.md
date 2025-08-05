@@ -6,8 +6,8 @@ The Blue Pill controls these tasks using FreeRTOS, which schedules and manages t
 
 <img width="357" height="253" alt="Screenshot (579)" src="https://github.com/user-attachments/assets/a490c4f3-3601-4e75-b5dd-a85256773bca" />
 
-![IMG_20250805_175612](https://github.com/user-attachments/assets/956198f0-a1a4-4089-a545-e7100102ed63)
+![IMG_20250805_175612](https://github.com/user-attachments/assets/e325cec2-fbe2-40da-880c-e72a4eb4ffc8)
 
 <img width="359" height="250" alt="Screenshot (580)" src="https://github.com/user-attachments/assets/16da45fc-9f28-4e7a-af8d-5dfe2cc5fed4" />
 
-![IMG_20250805_175558](https://github.com/user-attachments/assets/51e4760d-746e-4cbc-b334-012069b6a861)
+![IMG_20250805_175558](https://github.com/user-attachments/assets/476d9ac1-eaeb-4c1c-996a-d1df240b0c6c)
