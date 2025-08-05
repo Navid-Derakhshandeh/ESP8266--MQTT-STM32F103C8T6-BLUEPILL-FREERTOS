@@ -4,6 +4,10 @@ In this repository, I have uploaded code demonstrating communication between an 
 
 The Blue Pill controls these tasks using FreeRTOS, which schedules and manages them accordingly. The system functions as a warning mechanism.
 
+<img width="357" height="253" alt="Screenshot (579)" src="https://github.com/user-attachments/assets/a490c4f3-3601-4e75-b5dd-a85256773bca" />
+
 ![IMG_20250805_175612](https://github.com/user-attachments/assets/956198f0-a1a4-4089-a545-e7100102ed63)
+
+<img width="359" height="250" alt="Screenshot (580)" src="https://github.com/user-attachments/assets/16da45fc-9f28-4e7a-af8d-5dfe2cc5fed4" />
 
 ![IMG_20250805_175558](https://github.com/user-attachments/assets/51e4760d-746e-4cbc-b334-012069b6a861)
